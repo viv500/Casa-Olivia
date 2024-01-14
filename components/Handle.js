@@ -7,7 +7,7 @@ function Handle() {
   return (
     <div className="Handle-container">      
         <video src="/videos/vjdinerbg.mp4" muted autoPlay loop/>
-        <h1> VJ DINER </h1>
+        <h1> CASA OLIVIA </h1>
         <p> Authentic Italian Cuisine </p>
         <div className="Handle-btns">
             <Button className="btns" buttonStyle="btn--primary" buttonSize="btn--large">
